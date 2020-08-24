@@ -4,9 +4,9 @@ title: Questo è un post di prova
 ---
 
 ## Ciao
-### semplice post di prova
+### semplice post di **prova**
 
-Questo è il contenuto di *prova*.
+_Questo_ è il contenuto di **prova**.
 
 ----
 ****
