@@ -244,16 +244,20 @@ nav {
 //
 
 .posts > .post {
+	background-color: green;
   padding-bottom: 2em;
-  border-bottom: 1px solid red;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+background-color: blue;
 }
 
 .post {
+	
+	background-color: red;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
