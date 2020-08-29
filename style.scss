@@ -244,7 +244,6 @@ nav {
 //
 
 .posts > .post {
-	background-color: green;
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
@@ -252,12 +251,12 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
-background-color: blue;
+background-color: #F5FFFA;
 }
 
 .post {
 	
-	background-color: red;
+	background-color: #F5FFFA;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -274,6 +273,7 @@ background-color: blue;
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+	  background-color: #F5F5F5;
   }
 }
 
