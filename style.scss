@@ -188,7 +188,8 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 0;
+	  padding-top: 0;
   }
 }
 
@@ -202,7 +203,8 @@ img {
   letter-spacing: 1px;
 	
 @include mobile {
-    margin: 0px 0;
+    margin: 0 auto;
+	padding-top: 0;
 }
 
 .site-description {
