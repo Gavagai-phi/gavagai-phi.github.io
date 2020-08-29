@@ -175,8 +175,6 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
-	 padding-top: 10px;
-	  padding-bottom 0px;
   }
 
   img {
@@ -202,6 +200,9 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+	
+@include mobile {
+    margin: 0px 0;
 }
 
 .site-description {
