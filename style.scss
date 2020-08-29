@@ -245,17 +245,18 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+    border-bottom: 1px solid #B0C4DE;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 background-color: #F5F5F5;
+	border-bottom: 1px solid #B0C4DE;
 }
 
 .post {
-	
+	border-bottom: 1px solid #B0C4DE;
 	background-color: #F5F5F5;
   blockquote {
     margin: 1.8em .8em;
@@ -264,18 +265,15 @@ background-color: #F5F5F5;
     color: $gray;
     font-size: 22px;
     font-style: italic;
-	  background-color:blue;
   }
 
   .comments {
     margin-top: 10px;
-	  background-color:green;
   }
 
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-	  background-color: red;
   }
 }
 
