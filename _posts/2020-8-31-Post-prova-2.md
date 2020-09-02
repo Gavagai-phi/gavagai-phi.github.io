@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post di prova 2
-tags: [tag1, tag2, tag3]
+tags: [tag1, tag2]
 comments: true
 ---
 
