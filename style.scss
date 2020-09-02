@@ -82,6 +82,30 @@ a {
   padding-left: 30px;
 }*/
 
+/*ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}*/
+
+/*ol ul, ul ol, ul ul, ol ol {
+  margin: 0;
+}
+
+ul ul, ol ul {
+  list-style-type: circle;
+}*/
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: bold;
+}
+
 // Yeun's list style
 // https://gist.github.com/yeun/d824fc7b04b756508f4b0143535cec30
 
@@ -98,13 +122,7 @@ ol, ul {
   }
 }
 
-/*ul {
-  list-style-type: disc;
-}
 
-ol {
-  list-style-type: decimal;
-}*/
 
 ul {
   > li:before {
@@ -152,21 +170,7 @@ li {
 }
 
 
-/*ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
-}*/
-
-em, i {
-  font-style: italic;
-}
-
-strong, b {
-  font-weight: bold;
-}
+// Image
 
 img {
   max-width: 100%;
@@ -318,8 +322,43 @@ background-color: #F5F5F5;
 }
 
 .post {
+  h1 {
+    margin-bottom: .1em;
+  }
+
+  .date {
+    font-weight: 300;
+    font-size: $small-font-size;
+    color: $base-lighten-color;
+    margin-right: 3px;
+  }
+
+  .tag {
+    display: inline;
+    font-weight: 300;
+    font-size: $small-font-size;
+
+    li:before {
+      content: '';
+    }
+
+    li {
+      display: inline;
+      margin: 0;
+
+      > a {
+        margin: 3px 3px 3px 0;
+        padding: .5px 4px;
+        color: $tag-index-label-color;
+        background-color: $tag-index-label-background-color;
+        border-radius: 3px;
+      }
+    }
+  }
+/*.post { 
 	border-bottom: 1px solid #B0C4DE;
 	background-color: #F5F5F5;
+	
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -350,7 +389,7 @@ background-color: #F5F5F5;
         border-radius: 3px;
       }
     }
-  }
+  }*/
 	
 .comments {
     margin-top: 10px;
