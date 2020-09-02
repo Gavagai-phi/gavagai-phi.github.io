@@ -328,7 +328,7 @@ background-color: #F5F5F5;
     font-size: 22px;
     font-style: italic;
   }
-
+	
 .tag {
     display: inline;
     font-weight: 300;
@@ -372,6 +372,51 @@ background-color: #F5F5F5;
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+
+// Tags
+.tags > .label {
+  > li:before {
+    content: "";
+  }
+
+  > li {
+    margin: 0;
+    font-size: $small-font-size;
+    font-weight: 300;
+    display: inline;
+
+    > a {
+      display: inline-block;
+      margin: 1px;
+      color: $tag-index-label-color;
+      background-color: $tag-index-label-background-color;
+      border-radius: 3px;
+
+      span {
+        float: left;
+        padding: .5px 5px;
+
+        &.count {
+          background-color: $tag-index-count-background-color;
+          border-radius: 0 3px 3px 0;
+        }
+      }
+    }
+  }
+}
+
+.tags > .tag {
+  a {
+    color: $base-color;
+  }
+  time {
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
+    margin-left: 3px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
