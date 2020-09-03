@@ -16,7 +16,7 @@ La Babele mitica ci insegna che la linea di separazione più netta tra gli indiv
 Alla nostra mail: _gavagai.phi@gmail.com_
 
 O sulle nostre pagine social:
-[facebook/gavagai.phi](Facebook)
-[instagram/gavagai.phi](Instagram)
+[Facebook](facebook/gavagai.phi)
+[Instagram](instagram/gavagai.phi)
 
 
