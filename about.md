@@ -17,8 +17,8 @@ Alla nostra mail: _gavagai.phi@gmail.com_
 
 O sulle nostre pagine social:
 
-[Facebook](facebook.com/gavagai.phi)
+[Facebook](http://facebook.com/gavagai.phi)
 
-[Instagram](instagram.com/gavagai.phi)
+[Instagram](http://instagram.com/gavagai.phi)
 
 
