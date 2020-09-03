@@ -4,7 +4,7 @@ title: Su di noi
 permalink: /about/
 ---
 
-#####"_Non ci sono due persone che imparino il nostro linguaggio allo stesso modo e, in un certo senso, nessuno di noi finisce mai di imparare il nostro linguaggio finché vive._"
+#####_"Non ci sono due persone che imparino il nostro linguaggio allo stesso modo e, in un certo senso, nessuno di noi finisce mai di imparare il nostro linguaggio finché vive."_
 
 **Willard Van Orman Quine**
 
