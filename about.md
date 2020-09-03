@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Su di noi
 permalink: /about/
 ---
 
->"Non ci sono due persone che imparino il nostro linguaggio allo stesso modo e, in un certo senso, nessuno di noi finisce mai di imparare il nostro linguaggio finché vive."
+<p style="font-size: 8px;">>_"Non ci sono due persone che imparino il nostro linguaggio allo stesso modo e, in un certo senso, nessuno di noi finisce mai di imparare il nostro linguaggio finché vive."_</p>
 
 **Willard Van Orman Quine**
 
