@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <font size="3"> <em>"Non ci sono due persone che imparino il nostro linguaggio allo stesso modo e, in un certo senso, nessuno di noi finisce mai di imparare il nostro linguaggio finché vive." </em></font> 
- 
+ <br>
 <font size="3"><b>Willard Van Orman Quine</b></font> 
 <p>&nbsp;</p>
 
