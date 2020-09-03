@@ -374,7 +374,7 @@ background-color: #F5F5F5;
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-	  background-color: red;
+	  background-color: green;
   }
 }
 
@@ -392,7 +392,7 @@ footer {
 
 
 // Tags
-/*.tags > .label {
+.tags > .label {
   > li:before {
     content: "";
   }
@@ -433,7 +433,7 @@ footer {
     font-weight: 300;
     margin-left: 3px;
   }
-}*/
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
