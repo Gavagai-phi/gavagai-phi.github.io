@@ -17,5 +17,6 @@ Questo spazio è in continua mutazione ed espansione: per questo chiunque è int
 A presto.
 
 **Gavagai**
+---
 
 [^1]:Torneremo in maniera più approfondita su questo tema. Per riferimenti più puntuali: 1960, Word and Object, W.V.O.Quine; in italiano la prima edizione è del 1970, Parola e Oggetto, Il Saggiatore .  
