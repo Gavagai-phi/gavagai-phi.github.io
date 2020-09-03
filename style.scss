@@ -383,22 +383,22 @@ footer {
 
 
 // Tags
-/*.tags > .label {
+.tags > .label {
   > li:before {
     content: "";
   }
 
   > li {
     margin: 0;
-    font-size: $small-font-size;
+    //font-size: $small-font-size;
     font-weight: 300;
     display: inline;
 
     > a {
       display: inline-block;
       margin: 1px;
-      color: $tag-index-label-color;
-      background-color: $tag-index-label-background-color;
+      color: $darkerGray;
+      background-color: $lightGray;
       border-radius: 3px;
 
       span {
@@ -406,7 +406,7 @@ footer {
         padding: .5px 5px;
 
         &.count {
-          background-color: $tag-index-count-background-color;
+          background-color: $gray;
           border-radius: 0 3px 3px 0;
         }
       }
@@ -416,15 +416,15 @@ footer {
 
 .tags > .tag {
   a {
-    color: $base-color;
+    color: $darkerGray;
   }
   time {
-    color: $base-lighten-color;
-    font-size: $small-font-size;
+    //color: $base-lighten-color;
+    //font-size: $small-font-size;
     font-weight: 300;
     margin-left: 3px;
   }
-}*/
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
