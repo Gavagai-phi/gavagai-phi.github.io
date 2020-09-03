@@ -4,12 +4,12 @@ Ma Gavagai è anche la nostra associazione, creata dal basso da studenti e dotto
 ed approfondire temi di interesse filosofico, attraverso quelle domande e quei metodi tipici della filosofia anlitica. 
 
 _'Filosofia analitica'_ è una definizione forse già superata alla sua nascita, ma che continua ad esercitare un certo fascino e che descrive ancora una peculiarità nella
-riflessione filosofica, se con questa intendiamo la tradizione inaugurata da Frege, Russel e Wittgenstein, sviluppatasi in seno a pensatori anglosassoni che hanno saputo 
+riflessione filosofica, se con questa intendiamo la tradizione inaugurata da Frege, Russell e Wittgenstein, sviluppatasi in seno a pensatori anglosassoni che hanno saputo 
 caratterizzare e dare nuova vita a discipline come la _logica_, la _filosofia della scienza_, la _filosofia del linguaggio_ e la _filosofia della mente_, dotandole di
 metodi e linguaggi in grado di comuncare in modo più prolifico e profondo con il sempre più vasto mondo delle scienze.
 
-Inauguriamo questo spazio virtuale -ricordando che abbiamo già una pagina [Facebook](http://facebook.com/gavagai.phi) ed una [Instagram](http://instagram.com/gavagai.phi), per
-l'esigenza di uno spazio più riflessivo e meno pubblicitario dove poter proporre i nostri contributi e farci conoscere, doppiamente costretti dai tempi che corroni che
+Inauguriamo questo sito -ricordando che abbiamo già una pagina [Facebook](http://facebook.com/gavagai.phi) ed una [Instagram](http://instagram.com/gavagai.phi), per
+l'esigenza di uno spazio virtuale più riflessivo e meno pubblicitario dove poter proporre i nostri contributi e farci conoscere, doppiamente costretti dai tempi che corroni che
 ci impediscono dei più approfonditi appuntamenti seminariali _de visu_, che vi segnaleremo all'occorrenza.
 
 Questo spazio è in continua mutazione ed espansione, come pensiero e linguaggio che funzionano: per questo chiunque è interessato al progtto può contattarci per suggerimenti o collaborazioni.
