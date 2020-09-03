@@ -321,7 +321,7 @@ background-color: #F5F5F5;
 	border-bottom: 1px solid #B0C4DE;
 }
 
-.post {
+/*.post {
   h1 {
     margin-bottom: .1em;
   }
@@ -352,9 +352,9 @@ background-color: #F5F5F5;
         border-radius: 3px;
       }
     }
-  }
+  }*/
 
-/*.post { 
+.post { 
 	border-bottom: 1px solid #B0C4DE;
 	background-color: #F5F5F5;
 	
@@ -375,23 +375,7 @@ background-color: #F5F5F5;
     text-transform: uppercase;
     font-size: 15px;
   }
-}*/
- .blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }	
-	
-.comments {
-    margin-top: 10px;
-  }
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+}
 
 .wrapper-footer {
   margin-top: 50px;
