@@ -11,10 +11,10 @@ layout: default
         <span class="date">
           {{ post.date | date: "%Y-%m-%d" }}
         </span>
-              <ul class="tag" style="">
+              <ul class="tag">
           {% for tag in post.tags %}
-          <li style="display: inline; margin: 0;">
-            <a  style="margin: 3px 3px 3px 0; padding: .5px 4px; border-radius: 3px;"href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+          <li>
+            <a  href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
               {{ tag }}
             </a>
           </li>
