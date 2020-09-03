@@ -4,7 +4,7 @@ title: Su di noi
 permalink: /about/
 ---
 
-<p align="justify"><em>Non ci sono due persone che imparino il nostro linguaggio allo stesso modo e, in un certo senso, nessuno di noi finisce mai di imparare il nostro linguaggio finché vive.</em>
+><p align="justify"><em>"Non ci sono due persone che imparino il nostro linguaggio allo stesso modo e, in un certo senso, nessuno di noi finisce mai di imparare il nostro linguaggio finché vive."</em>
 	<br><b>Willard Van Orman Quine</b>
 <br><br>
 La Babele mitica ci insegna che la linea di separazione più netta tra gli individui risiede nel loro modo di esprimersi e comprendersi a vicenda. È così difficile trovare altri che parlino il proprio linguaggio, che, quando li si trova, è bene tenerli stretti. L’associazione <b>GAVAGAI</b> nasce nel panorama universitario pisano per rispondere a questa esigenza, radunando attorno a sé studenti e dottorandi che parlino la stessa lingua e siano disposti a mettere in un orizzonte comune i propri pensieri e le proprie scoperte.
