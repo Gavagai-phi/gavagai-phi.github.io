@@ -12,7 +12,7 @@ Inauguriamo questo sito -ricordando che abbiamo già una pagina [Facebook](http:
 l'esigenza di uno spazio virtuale più riflessivo e meno pubblicitario dove poter proporre i nostri contributi e farci conoscere, doppiamente costretti dai tempi che corrono che
 ci impediscono dei più approfonditi appuntamenti seminariali _de visu_, che vi segnaleremo all'occorrenza.
 
-Questo spazio è in continua mutazione ed espansione, come pensiero e linguaggio che funzionano: per questo chiunque è interessato al progetto può contattarci per suggerimenti o collaborazioni.
+Questo spazio è in continua mutazione ed espansione: per questo chiunque è interessato al progetto può contattarci per suggerimenti o collaborazioni.
 
 A presto.
 
