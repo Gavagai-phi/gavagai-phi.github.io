@@ -12,4 +12,4 @@ La Babele mitica ci insegna che la linea di separazione più netta tra gli indiv
 
 ### Contact us
 
-[gavagai.phi@gmail.com](gavagai.phi@gmail.com)
+_gavagai.phi@gmail.com_
